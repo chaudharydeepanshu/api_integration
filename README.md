@@ -1,5 +1,7 @@
 # Project repository for a basic FortniteApi.io API integration in Flutter
 
+[![wakatime](https://wakatime.com/badge/user/83f3b15d-49de-4c01-b8de-bbc132f11be1/project/018ce2d9-4e12-4d3b-a4cf-79f4e8fd378a.svg)](https://wakatime.com/badge/user/83f3b15d-49de-4c01-b8de-bbc132f11be1/project/018ce2d9-4e12-4d3b-a4cf-79f4e8fd378a)
+
 # Table of Contents
 > - [1. Introduction](#introduction)
 > - [2. Functionalitiy](#functionality-)
