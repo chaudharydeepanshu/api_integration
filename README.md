@@ -26,7 +26,7 @@ https://github.com/chaudharydeepanshu/api_integration/assets/85361211/fc02e9ae-0
 1. Clone the repository
 2. Run `flutter pub get`
 3. Run `dart run build_runner build --delete-conflicting-outputs\`
-4. Grab your FortniteApi.io API key from [here](https://dash.fortniteapi.io/)
+4. Grab your FortniteApi.io API key from [here](https://dashboard.fortniteapi.io/)
 5. Add your FortniteApi.io API key in `lib/constants/fortnite_api_constants.dart` file in `apiKey` variable.
 6. Run the app.
 
